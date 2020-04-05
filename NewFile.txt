@@ -1,0 +1,1 @@
+I have created a ssh key. Now I want to see if I can do a push to my github repo hellow-world. I was getting access rights not good enough. 
